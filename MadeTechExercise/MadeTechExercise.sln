@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeTechExercise.Tests", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeTechExercise.Service", "MadeTechExercise.Service\MadeTechExercise.Service.csproj", "{93E1EC5C-0D5D-4E39-AEC2-AEA1809A83BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeTechExcercise.Console", "MadeTechExcercise.Console\MadeTechExcercise.Console.csproj", "{39E97BB1-AA50-4D70-9B2D-BC2F70B0C2F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadeTechExcercise.Console", "MadeTechExcercise.Console\MadeTechExcercise.Console.csproj", "{39E97BB1-AA50-4D70-9B2D-BC2F70B0C2F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C46D1A0A-6A17-4B00-A1F0-A867F7E9C55E}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
