@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MadeTechExercise.Service\MadeTechExercise.Service.csproj" />
+  </ItemGroup>
+
 </Project>
